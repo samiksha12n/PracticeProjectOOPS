@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\PracticeProject\PracticeProject\PracticeProject\bin\Debug\PracticeProject.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\PracticeProject\PracticeProject\PracticeProject\bin\Debug\PracticeProject.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\PracticeProject\PracticeProject\PracticeProject\bin\Debug\PracticeProject.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\PracticeProject\PracticeProject\PracticeProject\obj\Debug\PracticeProject.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\PracticeProject\PracticeProject\PracticeProject\obj\Debug\PracticeProject.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\PracticeProject\PracticeProject\PracticeProject\obj\Debug\PracticeProject.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\PracticeProject\PracticeProject\PracticeProject\obj\Debug\PracticeProject.pdb
